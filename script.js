@@ -56,3 +56,18 @@
 //     return students.points +=30;
 // })
 // console.log(students);
+
+
+// // TASK 4
+// let numbers = [1.5, 2.56, 5.1, 12.33];
+// // let a=Math.round(1.5)
+// // let b=Math.round(2.56)
+// // let c=Math.round(12,5)
+// let d=(5,6)
+// let e=(6.4)
+// // let NewNumbrs=Math.round(1.5, 2.56, 5.1, 12.33);
+// // console.log(c)
+// let newmaht=Math.round("e","d")
+// // console.log(newmaht)
+// let numbers1=Math.round(numbers)
+// console.log(numbers1)
